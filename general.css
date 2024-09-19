@@ -1,0 +1,41 @@
+body {
+    background-color: beige;
+    padding: 0px 10px 0px 85px;
+    transition: 0.8s;
+    color: black;
+    font-family: Arial, Roboto;
+    height: 10000px;
+}
+
+.credits {
+    margin-bottom: 20px;
+    margin-top: 0px;
+    font: small;
+    font-family: cursive;
+}
+.img1 {
+    margin: auto;
+    float: left;
+    margin-right: 5px;
+    width: 125px;
+    height: 125px;
+}
+
+.video {
+    width: 60%;
+    height: 60%;
+    vertical-align: center;
+    align-items: center;
+    padding-left: 230px;
+}
+
+.video1 {
+    border-radius: 30px;
+}
+
+.first-description {
+    border: 5px solid grey;
+    padding-left: 10px;
+}
+
+
